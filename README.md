@@ -1,3 +1,3 @@
-# So-doku
+# Su-doku
 
-Vanilla JavaScript sodoku solver.
+Sudoku solver.
